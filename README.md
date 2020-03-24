@@ -1,3 +1,3 @@
 # Plotly_Challenge
 Git Hub Pages
-https://grybk1.github.io-plotly/index.html
+https://grybk1.github.io/Plotly/index.html
