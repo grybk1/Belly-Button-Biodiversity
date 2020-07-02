@@ -7,7 +7,7 @@ This is an interactive dashboard that uses the Button Biodiversity dataset, whic
 
 This website uses D3, Plotly and Bootstrap libraries.
 The D3 Library is used to read and parse a sample .json dataset. 
-Javascript used for processing and interactivity, while Plotly for is used for representing the visualizations. The Bootstrap library is used for managing the layout 
+Javascript used for processing and interactivity, while Plotly for is used for representing the visualizations. The Bootstrap library is used for managing the layout. 
 
 
 Screen Shot from Interactive Link Above:
